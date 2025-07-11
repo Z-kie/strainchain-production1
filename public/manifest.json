@@ -1,0 +1,22 @@
+﻿{
+  "name": "StrainChain - Cannabis Authentication",
+  "short_name": "StrainChain",
+  "description": "Verify cannabis authenticity with blockchain technology",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1421",
+  "theme_color": "#00d4aa",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

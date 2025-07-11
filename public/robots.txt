@@ -1,0 +1,3 @@
+﻿User-agent: *
+Allow: /
+Sitemap: https://Z-kie.github.io/strainchain-production/sitemap.xml
